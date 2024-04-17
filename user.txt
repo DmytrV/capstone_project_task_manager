@@ -1,0 +1,9 @@
+admin;password
+Dmitriy;Love1611
+Valeriia;Love0211
+Stella;Love1405
+Olya;2407
+Vasyl;VasylVasyl
+Petya;Vasiliy
+Kolya;GrandDad
+Natasha;ValeriiaMother

@@ -1,0 +1,64 @@
+User Overview
+
+Total number of users: 9
+Total number of tasks: 8
+
+User: admin
+Total number of tasks assigned: 2
+Percentage of total tasks assigned: 25.00%
+Percentage of completed tasks: 0.00%
+Percentage of incomplete tasks: 0.00%
+Percentage of overdue tasks: 0.00%
+
+User: Dmitriy
+Total number of tasks assigned: 2
+Percentage of total tasks assigned: 25.00%
+Percentage of completed tasks: 0.00%
+Percentage of incomplete tasks: 100.00%
+Percentage of overdue tasks: 100.00%
+
+User: Valeriia
+Total number of tasks assigned: 0
+Percentage of total tasks assigned: 0.00%
+Percentage of completed tasks: 0.00%
+No tasks available.
+
+User: Stella
+Total number of tasks assigned: 1
+Percentage of total tasks assigned: 12.50%
+Percentage of completed tasks: 0.00%
+Percentage of incomplete tasks: 100.00%
+Percentage of overdue tasks: 100.00%
+
+User: Olya
+Total number of tasks assigned: 1
+Percentage of total tasks assigned: 12.50%
+Percentage of completed tasks: 0.00%
+Percentage of incomplete tasks: 100.00%
+Percentage of overdue tasks: 100.00%
+
+User: Vasyl
+Total number of tasks assigned: 0
+Percentage of total tasks assigned: 0.00%
+Percentage of completed tasks: 0.00%
+No tasks available.
+
+User: Petya
+Total number of tasks assigned: 0
+Percentage of total tasks assigned: 0.00%
+Percentage of completed tasks: 0.00%
+No tasks available.
+
+User: Kolya
+Total number of tasks assigned: 0
+Percentage of total tasks assigned: 0.00%
+Percentage of completed tasks: 0.00%
+No tasks available.
+
+User: Natasha
+Total number of tasks assigned: 2
+Percentage of total tasks assigned: 25.00%
+Percentage of completed tasks: 0.00%
+Percentage of incomplete tasks: 100.00%
+Percentage of overdue tasks: 0.00%
+

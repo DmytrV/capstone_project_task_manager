@@ -1,0 +1,8 @@
+Dmitriy;Gym session;Warm up before session;2024-03-13;2024-03-13;No
+Dmitriy;Rewrite Capstone Project ;Add validation date function ;2024-03-15;2024-03-13;No
+Olya;To make surgery appointment ;Call them at 8 am;2024-03-16;2024-03-13;No
+admin;Capstone Project;Check all function in project;2024-03-14;2024-03-13;Yes
+Stella;Abacus;To make homework;2024-03-13;2024-03-13;No
+admin;Tennis;Prepare all equipment ;2024-03-18;2024-03-18;Yes
+Natasha;Buy some pills;Buy antabiotics ;2024-03-19;2024-03-18;No
+Natasha;Train ticket;Buy ticket for train ;2024-03-19;2024-03-18;No
